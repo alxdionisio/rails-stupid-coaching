@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+/* @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap");
+
+.input-button {
+  width: 100%;
+  display: flex;
+}
+
+.input {
+  box-sizing: border-box;
+  flex: 1;
+}
+
+.button {
+
+} */
